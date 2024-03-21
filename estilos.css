@@ -1,0 +1,44 @@
+body {
+    /* Establece un gradiente lineal como fondo */
+    background: linear-gradient(to right, #dfff9c, #6cffff);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h1{
+    color:#da78ff;
+    text-align: center;
+}   
+
+h2{
+    color:#ff6d9b;
+} 
+
+h3{
+    color:#ff6d9b;
+} 
+
+p{
+    color: #3b0b1b
+}    
+
+a{
+    text-decoration: none;
+}    
+
+ul{
+    list-style: square;
+}  
+
+img{ 
+
+}    
+
+blockquote{
+    background-color: #e6bff4; 
+    padding: 20px; 
+    width: 300px; 
+}  
+
+footer{
+text-align: center;
+} 
