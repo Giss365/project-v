@@ -13,7 +13,7 @@ Este proyecto es una fanpage para la celebridad surcoreana Kim Taehyung, más co
 + **Google Fonts:** Para fuentes personalizadas.
 
 ### Vista Previa del Proyecto
-(Pendiente)
+![Demo](/images/screenproject.png)
 
 ### Licencia
 Distribuido bajo la Licencia MIT. Consulta `LICENSE` para obtener más información.
